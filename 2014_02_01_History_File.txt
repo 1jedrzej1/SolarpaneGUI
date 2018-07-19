@@ -1,2 +1,0 @@
-IIn12V 		 IChargeAcu 		 IDischargeAcu 		 VChargeAcu 		 VDischargeAcu
-26		26		26		98		98
